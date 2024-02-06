@@ -130,3 +130,5 @@ function calculateWinner(Square) {
 // if (val == "X") setVal("O");
 // else setVal("X");
 // added nested folder but doesnt show for committing 
+
+// restructure it and rebuild -> keep the app.js and css files and build again for deployment 
